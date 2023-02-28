@@ -1,0 +1,10 @@
+table, tr, td, caption{
+    border-collapse: collapse;
+    text-align: center;
+    border:1px black solid;
+}
+
+td{
+    width: 100px;
+}
+
